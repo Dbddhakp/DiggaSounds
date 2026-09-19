@@ -1,0 +1,17 @@
+{
+  "beep": {
+    "sounds": [
+      {"name": "diggasounds:beep", "stream": false}
+    ]
+  },
+  "airhorn": {
+    "sounds": [
+      {"name": "diggasounds:airhorn", "stream": false}
+    ]
+  },
+  "theme": {
+    "sounds": [
+      {"name": "diggasounds:theme", "stream": true}
+    ]
+  }
+}
